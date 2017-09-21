@@ -1,11 +1,12 @@
 # Integrating React Native into an existing native codebase
 
-These are slides from my talk at [React Native EU 2017](https://react-native.eu).
+These are slides from [my talk](https://www.youtube.com/watch?v=MbHBacYlHKQ) at [React Native EU 2017](https://react-native.eu).
 
 There is the original [Deckset markdown document](presentation.md) and there’s an [exported PDF](presentation.pdf), but the latter does not contain the speaker notes, for those you will have to read the former along side the PDF.
 
 ## Links
 
+* [Video of talk](https://www.youtube.com/watch?v=MbHBacYlHKQ)
 * [@alloy](https://twitter.com/alloy)
 * [@ArtsyOpenSource](https://twitter.com/ArtsyOpenSource) / [artsy.net](https://artsy.net)
 * [Emission](https://github.com/artsy/emission)
