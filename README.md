@@ -4,6 +4,8 @@ These are slides from [my talk](https://www.youtube.com/watch?v=MbHBacYlHKQ) at 
 
 There is the original [Deckset markdown document](presentation.md) and there’s an [exported PDF](presentation.pdf), but the latter does not contain the speaker notes, for those you will have to read the former along side the PDF.
 
+One detail that isn’t entirely obvious is that the ‘more efficient networking’ is about using not just GraphQL but also a JS library like Relay.
+
 ## Links
 
 * [Video of talk](https://www.youtube.com/watch?v=MbHBacYlHKQ)
